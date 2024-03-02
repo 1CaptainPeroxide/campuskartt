@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "689265101383",
+    "project_id": "campuskartt-6e635",
+    "storage_bucket": "campuskartt-6e635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689265101383:android:8c68f9d5b00a4ef7f2ff62",
+        "android_client_info": {
+          "package_name": "com.example.campuskartt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689265101383-9uohr27mp5b00as2vhq2jfmmfr2dgf4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgIKCmF5lMGwvx40_wx3chp8ynyfqKIUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689265101383-9uohr27mp5b00as2vhq2jfmmfr2dgf4j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "689265101383-74bequka4pvfslq2igphish7tefd03fb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campuskartt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
