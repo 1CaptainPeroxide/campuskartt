@@ -38,11 +38,11 @@ https://drive.google.com/file/d/1zy8hvQ0QRlqRU-u8ngs-x5Ho0upWCdgR/view?usp=shari
 2) Upload your phoneNumber in this format: 91xxxxxxxxxx.
 
 Screenshots :
-<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/67a1fa76-50d9-444c-a925-9e96f1e82b0b" width="300">
-<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/0824476f-aa57-4622-9189-628ebd30230b" width="300">
-<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/93c9e3ca-3b5d-4e44-a06a-ba1307e63aab" width="300">
-<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/5b0984ce-36c9-44eb-8ecd-41dac6bc812e" width="300">
-<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/ae96d320-bbf8-434e-87ff-a21710d6a94d" width="300">
+<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/67a1fa76-50d9-444c-a925-9e96f1e82b0b" width="180">
+<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/0824476f-aa57-4622-9189-628ebd30230b" width="180">
+<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/93c9e3ca-3b5d-4e44-a06a-ba1307e63aab" width="180">
+<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/5b0984ce-36c9-44eb-8ecd-41dac6bc812e" width="180">
+<img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/ae96d320-bbf8-434e-87ff-a21710d6a94d" width="180">
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
