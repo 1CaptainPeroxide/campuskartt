@@ -35,8 +35,6 @@ Download "Campus Kart" now and unlock a whole new world of convenient, student-f
 Link:
 https://drive.google.com/file/d/1zy8hvQ0QRlqRU-u8ngs-x5Ho0upWCdgR/view?usp=sharing
 
-2) Upload your phoneNumber in this format: 91xxxxxxxxxx.
-
 Screenshots :
 <img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/67a1fa76-50d9-444c-a925-9e96f1e82b0b" width="180">
 <img src="https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/0824476f-aa57-4622-9189-628ebd30230b" width="180">
