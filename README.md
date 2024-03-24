@@ -41,18 +41,6 @@ Screenshots :
 
 
 
-![WhatsApp Image 2024-03-24 at 21 40 38_a2d0c88e](https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/6cc19d7d-604b-4846-aca3-569e4a4f50f4)
-
-![WhatsApp Image 2024-03-24 at 21 40 38_b8ea8208](https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/99b4f232-d476-49ec-b95f-dce67a344dd5)
-
-![WhatsApp Image 2024-03-24 at 21 40 39_43ccecbc](https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/8bf20365-4dc6-4a03-b215-c2ff415047ec)
-
-![WhatsApp Image 2024-03-24 at 21 40 39_421260a6](https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/ad788c70-8755-4574-a0cd-da656fa6b370)
-
-![WhatsApp Image 2024-03-24 at 21 40 39_21e9c926](https://github.com/1CaptainPeroxide/campuskartt/assets/142601437/d19350c6-1211-40a6-9924-8c96fc8c7096)
-
-
-
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
